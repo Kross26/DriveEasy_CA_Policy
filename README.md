@@ -1,4 +1,4 @@
-# Drivetest_CA_Policy
+# DriveEasy_CA_Policy
 
 Privacy Policy - Drivetest CA Last updated: February 20, 2026
 
